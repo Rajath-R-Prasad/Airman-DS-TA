@@ -1,0 +1,31 @@
+instructor_id,name,base_id,aircraft_qualified,total_duty_hours,total_flight_hours
+I001,Megan Bradley,Bangalore,DA40,206,89
+I002,Benjamin Hall,Chennai,C172,119,77
+I003,Krista Blake,Pune,DA40,96,53
+I004,Brent Garza II,Pune,PA28,215,107
+I005,Samantha West,Pune,C172,109,73
+I006,Tyrone Stevens,Chennai,PA28,167,74
+I007,Bryan Deleon,Hyderabad,C172,196,78
+I008,Rebecca Potts,Bangalore,DA40,125,75
+I009,Tiffany Ross,Pune,DA40,156,114
+I010,Wesley Mitchell PhD,Mysuru,DA40,130,59
+I011,Richard Garcia,Pune,DA40,215,164
+I012,Christina Ramirez,Hyderabad,PA28,205,83
+I013,Julie Zuniga,Pune,PA28,141,59
+I014,Michael Hart,Bangalore,C172,101,69
+I015,Stacy Walker,Chennai,DA40,112,50
+I016,Sean Brown,Pune,DA40,122,61
+I017,Rebecca Collins,Mysuru,PA28,134,103
+I018,Steven Adkins,Hyderabad,DA40,159,88
+I019,Dylan King,Mysuru,PA28,212,123
+I020,Jasmine Davis,Pune,C172,96,51
+I021,Alex Jones,Bangalore,DA40,138,87
+I022,Nathan Hines,Bangalore,C172,95,46
+I023,Christina Aguilar,Hyderabad,PA28,98,59
+I024,Jacqueline Young,Mysuru,DA40,204,99
+I025,Kristine Bass,Chennai,DA40,201,99
+I026,Stephanie Stewart,Chennai,PA28,128,56
+I027,Veronica Torres,Bangalore,PA28,188,106
+I028,Melinda Woodard,Hyderabad,DA40,105,44
+I029,Joshua Glass,Pune,C172,143,68
+I030,Alicia Schwartz,Hyderabad,PA28,115,65
