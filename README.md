@@ -267,6 +267,8 @@ Airman-DS-TA/
 
 ### Interactive Dashboard
 
+![Dashboard Preview](dashboards/screenshots/dashboard_preview.png)
+
 To view the interactive dashboard, open `dashboards/index.html` in any modern browser:
 
 ```bash
