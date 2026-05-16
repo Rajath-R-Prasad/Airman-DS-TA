@@ -251,6 +251,11 @@ Airman-DS-TA/
 │   ├── payment_risk.png               # Payment risk distribution
 │   ├── cadet_risk_scores.png          # Risk score bar chart
 │   └── flight_vs_study_progress.png   # Flight vs study scatter plot
+├── dashboards/
+│   ├── index.html                     # Interactive intelligence dashboard
+│   ├── styles.css                     # Dashboard styling
+│   ├── dashboard.js                   # Chart rendering & interactivity
+│   └── risk_data.js                   # Cadet risk data (auto-generated)
 └── reports/
     ├── data_quality_report.md         # Data quality findings
     ├── executive_insights.md          # Strategic insights summary
@@ -259,3 +264,19 @@ Airman-DS-TA/
     ├── toga_study_intelligence.md      # TOGA study report
     └── finance_risk_analysis.md       # Finance & risk report
 ```
+
+### Interactive Dashboard
+
+To view the interactive dashboard, open `dashboards/index.html` in any modern browser:
+
+```bash
+# Option 1: Direct file open
+open dashboards/index.html          # macOS
+xdg-open dashboards/index.html     # Linux
+
+# Option 2: Serve locally (recommended)
+cd dashboards && python3 -m http.server 8080
+# Then visit http://localhost:8080
+```
+
+The dashboard features animated KPIs, SVG donut charts, bar visualizations, a data quality summary, and a searchable/filterable risk table for all 200 cadets.
