@@ -1,0 +1,8 @@
+file,check,field,detail,severity
+sorties,Missing Value,actual_start,1253 missing (10.4%),Medium
+sorties,Missing Value,actual_end,1238 missing (10.3%),Medium
+sorties,Missing Value,cancel_reason,10762 missing (89.7%),High
+sorties,Completed without actual times,actual_start/end,"['S03241', 'S03264', 'S03777', 'S04381', 'S04622', 'S05044', 'S07084', 'S07735', 'S07871', 'S09951', 'S11472']",High
+payments,Outstanding amount mismatch,outstanding_amount,"['C010', 'C032', 'C054', 'C062', 'C088', 'C096', 'C100', 'C104', 'C132', 'C151']",High
+aircraft,Downtime > Available hours,maintenance_downtime_hours,"['A001', 'A004', 'A005']",High
+aircraft,High defect count,defect_count,"[{'aircraft_id': 'A001', 'defect_count': 10}, {'aircraft_id': 'A010', 'defect_count': 13}, {'aircraft_id': 'A012', 'defect_count': 15}, {'aircraft_id': 'A013', 'defect_count': 9}, {'aircraft_id': 'A015', 'defect_count': 8}, {'aircraft_id': 'A017', 'defect_count': 14}, {'aircraft_id': 'A024', 'defect_count': 15}, {'aircraft_id': 'A025', 'defect_count': 9}]",Medium
